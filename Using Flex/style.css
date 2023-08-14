@@ -1,0 +1,45 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  height: 100vh;
+}
+.app {
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+}
+main {
+  display: flex;
+
+  flex-grow: 1;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+
+  background-color: cyan;
+
+  text-align: center;
+}
+.sidebar {
+  background-color: red;
+  width: 30%;
+}
+.principal {
+  background-color: rgb(255, 111, 111);
+
+  flex-grow: 1;
+}
+h1,
+.PosCentral {
+  text-align: center;
+  /*centralizazr posição*/
+  position: relative;
+  top: 50%;
+  transform: translate(0%, -50%);
+}
+footer {
+  height: 40px;
+  background-color: blue;
+}
