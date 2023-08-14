@@ -1,1 +1,1 @@
-feitos só no raciocionio logico e conhecimentos ;)
+feito com no raciocionio logico e conhecimentos que adquiri, sem ajuda de terceiros
